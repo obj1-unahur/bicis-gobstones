@@ -1,6 +1,7 @@
 # Depósitos de bicicletas
 
-![muchas_bicis](muchasbicis.jpg "Buscá tu bici si te animás")
+<img src="img/empanadasGimenez.png" height="200" width="300">
+![muchas_bicis](/img/muchasbicis.jpg "Buscá tu bici si te animás")
 
 Nos piden construir un modelo cuyo objetivo es informatizar parte de la gestión de los depósitos municipales de bicicletas en Ciudad Gótica.
 
@@ -40,7 +41,7 @@ Respecto de los **canastos**, tener en cuenta que no son luminosos.
 <br>
 Para que tengan una idea y por las dudas, va una foto de un morral para bici.
 
-![morral](morral_bici.jpg "Esto es un morral para bici")
+![morral](/img/morral_bici.jpg "Esto es un morral para bici")
 
 Van tres ejemplos adicionales de bicis.
 * una bici rodado 28, de 150 cm de largo, su accesorio es un farolito.  
